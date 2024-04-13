@@ -22,14 +22,16 @@ video {
   color: #fff;
   font-size: 100px;
   margin-top: -100px;
+  
 }
 
 .hero-container > p {
-  margin-top: 8px;
+  margin-top: 48px;
   color: #fff;
+  font-family: Montserrat, sans-serif;
   font-size: 32px;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  font-weight: 400;
+  line-height: 28px;
 }
 
 .hero-btns {
